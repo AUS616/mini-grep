@@ -1,4 +1,4 @@
-## Minigrep
+# Minigrep
 A simple implementation of grep in C. Minigrep allows you to search for patterns in text files, with support for case-insensitive searches and pattern highlighting.
 
 ## Features
