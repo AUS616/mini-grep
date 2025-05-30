@@ -1,0 +1,8 @@
+Welcome to the world of text searching.
+This is a simple file for demonstrating the grep utility.
+Sometimes, you need to search for a word like "search".
+The case can vary: SEARCH, Search, or even seArCh.
+Remember to handle case-insensitive searches carefully.
+Patterns like "utility" or "world" might also be of interest.
+Don't forget to test for patterns that appear multiple times.
+For example, the word "test" is used here as a test.
