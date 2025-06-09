@@ -14,7 +14,7 @@ A simple implementation of grep in C. Minigrep allows you to search for patterns
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone 
+   git clone https://github.com/AUS616/mini-grep.git
 2. **Navigate to the Project Directory:**
     ```bash
    cd mini-grep 
